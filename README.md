@@ -2,13 +2,13 @@
 Analysis to segment targeted customers and study the profitability of a targeted vs non-targeted mobile marketing approach
 ## Overview
 
-This project focuses on analyzing Tuango’s mobile marketing campaigns to enhance the effectiveness of targeted push notifications. Tuango is a leading "deal-of-the-day" platform in China, and its business model revolves around promoting discounted deals to a large customer base. This analysis aims to identify key factors influencing customer responses and improve the profitability of mobile marketing strategies.
+This project focuses on analyzing company A’s mobile marketing campaigns to enhance the effectiveness of targeted push notifications. Company A is a leading "deal-of-the-day" platform, and its business model revolves around promoting discounted deals to a large customer base. This analysis aims to identify key factors influencing customer responses and improve the profitability of mobile marketing strategies.
 
 ---
 
 ## Objectives
 
-1. **Understand Campaign Effectiveness:** Evaluate the success of Tuango's customized push notifications in driving customer purchases.
+1. **Understand Campaign Effectiveness:** Evaluate the success of the customized push notifications in driving customer purchases.
 2. **Optimize Targeting:** Identify key features that influence customer responses to promotional messages.
 3. **Compare Strategies:** Analyze the profitability of targeted marketing against a non-targeted approach.
 
